@@ -5,4 +5,4 @@
 
 ### MVN command to run:
 
-`mvn test -Dtest="GetAllPeopleTest"`
+`mvn test -Dtest=SwapiTest`

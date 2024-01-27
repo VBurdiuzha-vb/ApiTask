@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
 
 import static Utils.SchemaGenerator.generateSchemaFromDto;
 
-public class GetAllPeopleTest extends SwapiService {
+public class SwapiTest extends SwapiService {
 
 
     @Test
